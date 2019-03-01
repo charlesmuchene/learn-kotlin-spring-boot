@@ -1,0 +1,3 @@
+INSERT INTO Person(ID, FIRST_NAME, LAST_NAME, BIRTHDATE) VALUES (1, 'Steve', 'Kizito', '1980-05-04');
+INSERT INTO Person(ID, FIRST_NAME, LAST_NAME, BIRTHDATE) VALUES (2, 'Charles', 'Muchene', '1983-11-09');
+INSERT INTO Person(ID, FIRST_NAME, LAST_NAME)            VALUES (3, 'Guru', 'Dev');
